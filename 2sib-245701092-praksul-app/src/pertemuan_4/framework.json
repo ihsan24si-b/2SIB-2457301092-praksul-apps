@@ -1,0 +1,44 @@
+{
+  "frameworks": [
+    {
+      "id": 1,
+      "name": "React",
+      "description": "A JavaScript library for building user interfaces.",
+      "detail": {
+        "officialWebsite": "https://react.dev/",
+        "developer": "Meta (Facebook)"
+      },
+      "tags": ["JavaScript", "UI", "Component-Based"]
+    },
+    {
+      "id": 2,
+      "name": "Vue",
+      "description": "The Progressive JavaScript Framework.",
+      "detail": {
+        "officialWebsite": "https://vuejs.org/",
+        "developer": "Evan You"
+      },
+      "tags": ["JavaScript", "UI", "Reactive"]
+    },
+    {
+      "id": 3,
+      "name": "Angular",
+      "description": "One framework. Mobile & desktop.",
+      "detail": {
+        "officialWebsite": "https://angular.io/",
+        "developer": "Google"
+      },
+      "tags": ["TypeScript", "Framework", "SPA"]
+    },
+    {
+      "id": 4,
+      "name": "Svelte",
+      "description": "Cybernetically enhanced web apps.",
+      "detail": {
+        "officialWebsite": "https://svelte.dev/",
+        "developer": "Rich Harris"
+      },
+      "tags": ["JavaScript", "Compiler", "Reactive"]
+    }
+  ]
+}
